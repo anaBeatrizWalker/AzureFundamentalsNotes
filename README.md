@@ -1,4 +1,4 @@
-# Tipos de Serviço da Azure
+# Tipos de Serviços da Azure
 
 ### Iaas (Infraestrutura como Serviço)
 - Serviços e recursos onde o cliente/usuário tem mais acesso e liberdade de personalização;
