@@ -17,6 +17,9 @@
 - Oferece a menor gestão;
 - Exemplo: aplicativos hospedados, Microsoft 365, Google Workspace.
 
+### Dbaas (Banco de Dados como Serviço)
+- O provider gerencia a infraestrutura, manutenção, segurança e escalabilidade do banco de dados, permitindo que os usuários se concentrem em usar os dados sem se preocupar com a administração do sistema.
+
 ### Modelo de Responsabilidade Compartilhada
 - Define as responsabilidades de segurança e gerenciamento entre o provedor de serviços em nuvem e o cliente;
 - Essa divisão de responsabilidades ajuda a garantir que tanto o provedor quanto o cliente cumpram suas obrigações de segurança, criando um ambiente mais seguro e eficiente.
